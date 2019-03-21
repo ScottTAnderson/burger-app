@@ -6,9 +6,9 @@ li {
   }
   
   .change-devoured {
-    border-radius: 5px;
-    padding: 5px;
-    max-height:70%;
+    border-radius: 1px;
+    padding: 1px;
+    max-height:50%;
   }
 
   .label {
