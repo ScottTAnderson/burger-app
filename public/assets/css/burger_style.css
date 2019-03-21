@@ -8,6 +8,7 @@ li {
   .change-devoured {
     border-radius: 5px;
     padding: 5px;
+    max-height:70%;
   }
 
   .label {
